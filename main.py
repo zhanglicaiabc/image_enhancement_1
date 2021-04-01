@@ -45,7 +45,7 @@ if __name__ == '__main__':
     # plt.show()
 
     #project2
-    img=np.array(imgplt.imread('272.jpeg'))
+    img=np.array(imgplt.imread('data/272.jpeg'))
     # filter=np.array([[-1,-1,-1],
     #                 [-1,8,-1],
     #                 [-1,-1,-1]])
